@@ -1,0 +1,26 @@
+Linux Lab dir permission : drwxrwxr-x 2 tithsambath tithsambath 4096 Oct 12 23:09 .
+
+Explain : 
+
+	drwxrwxr-x : Indicate the permission of Linux Lab directory
+	
+	d : mean directory
+	r : mean read
+	w : mean write
+	x : mean execute
+	- : no permission 
+	
+	There are 3 rwx in permission :
+	
+	1 : rwx is indicated the permission for user owner
+	2 : rwx is indicated the permission for group owner
+	3 : r-x or rwx or... is indicate the permission for other
+	
+	
+	
+	
+	
+	
+
+
+

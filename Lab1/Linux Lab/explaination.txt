@@ -1,0 +1,20 @@
+What I have learned while doing this lab 1 :
+
+	1. Learn on how to navigate to home by type command : cd ~
+
+	2. Learn on how to create a folder or directory in linux by using command mkdir
+
+	3. Learn on how to create a file by using command cat > filename, touch filename
+	   the difference between cat & touch is
+	   	cat is use to create file with content
+	   	touch is use to create file without content
+
+	4. Learn on how to check the permission on both dirtory and file by using command
+	   ls -ld : check permission of directory
+	   ls -l : check permission of file
+
+	5. Learn on how to change permission by using chmod command.
+	
+	6. Learn on how to print working directory or where we are in directory by using 
+	   command.
+	
